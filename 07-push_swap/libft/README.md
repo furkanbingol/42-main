@@ -1,0 +1,2 @@
+# libft 
+#### Some useful functions
